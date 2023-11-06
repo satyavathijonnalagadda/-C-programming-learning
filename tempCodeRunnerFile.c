@@ -1,0 +1,18 @@
+//c programm with area of rectangle values 
+#include <stdio.h>
+int area(int l,int b);
+int main()
+{
+int l;
+Printf("enter the value of l:\n");
+scanf("%d",&l);
+int b;
+prinf("enter the value of b:\n");
+scanf("%d",&b);
+printf("the area of rectangle is %d",(l,b));
+}
+int a(int l,int b)    
+{
+    return(2*(l+b));
+
+}
